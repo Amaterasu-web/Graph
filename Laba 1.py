@@ -98,4 +98,3 @@ parts = text.split('.')
 
 num_words = len(parts[0])
 print(num_words)
-
